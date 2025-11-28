@@ -39,7 +39,7 @@ and compute the final payable amount based on purchase weight and gold rate per 
    - Based on type, create the appropriate customer object  
    - Call `display()` to print output
 9. End the program.
-10. 
+ 
 ## PROGRAM:
  ```
 /*
@@ -171,4 +171,5 @@ The program successfully computes the final gold purchase price for:
 - Premium customers (with 5% discount and 1% cashback)
 
 It displays complete details including customer type, discount applied, final price, and cashback for premium customers.
+
 
