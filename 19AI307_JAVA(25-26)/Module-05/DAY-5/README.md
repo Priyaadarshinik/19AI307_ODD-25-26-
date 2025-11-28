@@ -25,8 +25,8 @@ To simulate multiple concurrent deposits into a shared bank account using thread
  ```
 /*
 Program to implement a Synchronization concept using Java
-Developed by: 
-RegisterNumber:  
+Developed by: PRIYAADARSHINI K
+RegisterNumber:  212223240126
 */
 ```
 
@@ -87,4 +87,5 @@ public class Main {
 
 ## RESULT:
 The program safely performs concurrent deposits using synchronized access and prints the correct final balance.
+
 
