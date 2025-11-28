@@ -28,7 +28,7 @@ To write a Java program that calculates the area of different shapes (square, re
 /*
 Program to implement a Polymorphism using Java
 Developed by: PRIYAADARSHINI K
-RegisterNumber:  21223240126
+RegisterNumber:  212223240126
 */
 ```
 
@@ -70,3 +70,4 @@ public class AreaCalculator {
 
 ## RESULT:
 The program successfully calculated and displayed the areas of a square, rectangle, and circle using method overloading.
+
