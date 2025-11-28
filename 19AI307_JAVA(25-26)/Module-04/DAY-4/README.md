@@ -43,7 +43,6 @@ RegisterNumber:  212223240126
 
 ## SOURCE CODE:
 ```
-```
 import java.util.Scanner;
 
 interface Button
@@ -150,3 +149,4 @@ Based on user input, the correct factory is selected, and it generates:
 - A *Light Button* and *Light Checkbox*
 
 Both components are rendered in the output according to the selected theme.
+
